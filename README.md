@@ -16,10 +16,10 @@ The script automates the following flow:
 
 ## 🛠️ Tech Stack
 
-- **Language**: Python / Java / [your choice]
+- **Language**:Java 
 - **Framework**: Selenium WebDriver
 - **Browser**: Chrome (via ChromeDriver)
-- **Tools**: WebDriverWait, Screenshot Utility
+- **Tools**: TestNg , Allure Report ,Maven
 
 ---
 
