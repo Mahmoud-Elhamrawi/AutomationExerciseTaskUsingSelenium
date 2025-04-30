@@ -1,0 +1,8 @@
+[INFO] - {29-04-2025 10:46:13} [main] [com.TestV3.Utils.LogUtils.LogUtil] - [Ljava.lang.String;@3440e9cd
+[INFO] - {29-04-2025 10:46:13} [main] [com.TestV3.Utils.LogUtils.LogUtil] - [Ljava.lang.String;@40ac6b76
+[INFO] - {29-04-2025 10:46:13} [main] [com.TestV3.Utils.LogUtils.LogUtil] - [Ljava.lang.String;@5649d11a
+[INFO] - {29-04-2025 10:46:13} [main] [com.TestV3.Utils.LogUtils.LogUtil] - [Ljava.lang.String;@294f9d50
+[INFO] - {29-04-2025 10:46:13} [main] [com.TestV3.Utils.LogUtils.LogUtil] - [Ljava.lang.String;@4a8ffd75
+[INFO] - {29-04-2025 10:46:22} [main] [com.TestV3.Utils.LogUtils.LogUtil] - [Ljava.lang.String;@3af36922
+[INFO] - {29-04-2025 10:46:23} [main] [com.TestV3.Utils.LogUtils.LogUtil] - [Ljava.lang.String;@3dde5f38
+[INFO] - {29-04-2025 10:46:24} [main] [com.TestV3.Utils.LogUtils.LogUtil] - [Ljava.lang.String;@31940704

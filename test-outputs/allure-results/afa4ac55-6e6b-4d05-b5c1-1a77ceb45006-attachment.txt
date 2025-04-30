@@ -1,0 +1,25 @@
+[INFO] - {30-04-2025 09:03:13} [main] [com.TestV3.Listeners.TestNgListener] - Execution started
+[INFO] - {30-04-2025 09:03:13} [main] [com.TestV3.Listeners.TestNgListener] - Properties file loaded
+[INFO] - {30-04-2025 09:03:13} [main] [com.TestV3.Listeners.TestNgListener] - Previous files deleted from allure results
+[ERROR] - {30-04-2025 09:03:13} [main] [com.TestV3.Utils.FileUtil.FileUtils] - Failed to clean directory: 1 exception(s): [org.apache.commons.io.IOIndexedException: IOException #1: Cannot delete file: test-outputs\Logs\log_2025-04-30_09-03-13 AM.log]
+[INFO] - {30-04-2025 09:03:13} [main] [com.TestV3.Listeners.TestNgListener] - Previous logs deleted
+[INFO] - {30-04-2025 09:03:13} [main] [com.TestV3.Listeners.TestNgListener] - Previous screenshots deleted
+[INFO] - {30-04-2025 09:03:13} [main] [com.TestV3.Listeners.TestNgListener] - Execution started
+[INFO] - {30-04-2025 09:03:30} [main] [com.TestV3.Pages.P01_LandingPage] - Navigated to landing page - https://automationexercise.com/
+[INFO] - {30-04-2025 09:03:30} [main] [com.TestV3.Listeners.TestNgListener] - Test Case ,End2endTC started
+[INFO] - {30-04-2025 09:03:34} [main] [com.TestV3.Pages.P01_LandingPage] - Navigated to login page
+[INFO] - {30-04-2025 09:03:35} [main] [com.TestCases.TC01_LoginTC] - navigate to login page
+[INFO] - {30-04-2025 09:03:49} [main] [com.TestCases.TC01_LoginTC] - after login 
+[INFO] - {30-04-2025 09:03:59} [main] [com.TestV3.Pages.P04_TshritPage] - number of products : 6
+[INFO] - {30-04-2025 09:03:59} [main] [com.TestV3.Pages.P04_TshritPage] - all prices after replace: 400
+[INFO] - {30-04-2025 09:03:59} [main] [com.TestV3.Pages.P04_TshritPage] - price is less than 1000 400
+[INFO] - {30-04-2025 09:03:59} [main] [com.TestV3.Pages.P04_TshritPage] - product that added to cart
+[INFO] - {30-04-2025 09:04:01} [main] [com.TestV3.Pages.P04_TshritPage] - clicking on continue btn
+[INFO] - {30-04-2025 09:04:01} [main] [com.TestV3.Pages.P04_TshritPage] - all prices after replace: 1299
+[INFO] - {30-04-2025 09:04:01} [main] [com.TestV3.Pages.P04_TshritPage] - all prices after replace: 1000
+[INFO] - {30-04-2025 09:04:01} [main] [com.TestV3.Pages.P04_TshritPage] - all prices after replace: 1500
+[INFO] - {30-04-2025 09:04:01} [main] [com.TestV3.Pages.P04_TshritPage] - all prices after replace: 850
+[INFO] - {30-04-2025 09:04:01} [main] [com.TestV3.Pages.P04_TshritPage] - price is less than 1000 850
+[INFO] - {30-04-2025 09:04:01} [main] [com.TestV3.Pages.P04_TshritPage] - product that added to cart
+[INFO] - {30-04-2025 09:04:02} [main] [com.TestV3.Pages.P04_TshritPage] - clicking on continue btn
+[INFO] - {30-04-2025 09:04:02} [main] [com.TestV3.Pages.P04_TshritPage] - all prices after replace: 1389
